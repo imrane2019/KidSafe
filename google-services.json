@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "528484122613",
+    "project_id": "kidssafe-707f9",
+    "storage_bucket": "kidssafe-707f9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528484122613:android:7c20eab13b05a5d5d56abc",
+        "android_client_info": {
+          "package_name": "com.company.kidosafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJehQVp3IcfhHdCAOnzKgSW_DvUxqgMA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
